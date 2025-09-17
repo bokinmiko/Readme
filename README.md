@@ -1,6 +1,6 @@
 <!-- Profil README - Ganti sesuai kebutuhan Anda! -->
 
-<h2 align="center">Hi there 👋, I'm Bokin Miko</h2>
+<h2 align="center">Hi there 👋, I'm Nufah</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
